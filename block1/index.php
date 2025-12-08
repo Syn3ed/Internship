@@ -136,5 +136,4 @@ print_r($sortedByBubbleSort);
 $nickname = 'qwertyuiopasdfghjkl';
 $lenght = strlen($nickname);
 echo $lenght,($lenght % 2 == 0) ? " girl \n" : " boy \n";
-
 ?>
